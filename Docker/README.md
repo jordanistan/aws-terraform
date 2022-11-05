@@ -57,11 +57,9 @@ Create Terraform Infrastructure with Docker
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Link to download Visual Studio Code:](https://code.visualstudio.com/#alt-downloads) 
+- [Terraform Plugins:](https://marketplace.visualstudio.com/items?itemName=mauve.terraform)
+- [Terraform Plugins:](https://marketplace.visualstudio.com/items?itemName=erd0s.terraform-autocomplete)
 
 ## :white_check_mark: Requirements ##
 

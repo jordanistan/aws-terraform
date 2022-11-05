@@ -65,7 +65,9 @@ The following tools were used in this project:
 - [Terraform tutorials](https://developer.hashicorp.com/terraform/tutorials) 
 - - [Terraform AWS](https://developer.hashicorp.com/terraform/tutorials/aws-get-started)
 - - [Terraform Docker](https://developer.hashicorp.com/terraform/tutorials/docker-get-started)
-- 
+- [Link to download Visual Studio Code:](https://code.visualstudio.com/#alt-downloads) 
+- [Terraform Plugins:](https://marketplace.visualstudio.com/items?itemName=mauve.terraform)
+- [Terraform Plugins:](https://marketplace.visualstudio.com/items?itemName=erd0s.terraform-autocomplete)
 
 
 ## :white_check_mark: Requirements ##
