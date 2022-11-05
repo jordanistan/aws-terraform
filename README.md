@@ -49,9 +49,7 @@
 This is the first start of Learning Terraform. 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Learning AWS while Learning Terraform
 
 ## :rocket: Technologies ##
 
