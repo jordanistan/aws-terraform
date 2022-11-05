@@ -46,7 +46,12 @@
 
 ## :dart: About ##
 
-This is the first start of Learning Terraform. 
+Learning Terraform. 
+
+<p><a href="https://developer.hashicorp.com/terraform/tutorials/aws-get-started/infrastructure-as-code?wvideo=mo76ckwvz4"><img src="https://embed-ssl.wistia.com/deliveries/41c56d0e44141eb3654ae77f4ca5fb41.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=1563ffe0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://developer.hashicorp.com/terraform/tutorials/aws-get-started/infrastructure-as-code?wvideo=mo76ckwvz4">What is Infrastructure as Code with Terraform? | Terraform | HashiCorp Developer</a></p>
+
+- [HashiCorp Cloud Engineer Certifications](https://www.hashicorp.com/certification#hashicorp-certified-terraform-associate)
+
 ## :sparkles: Features ##
 
 :heavy_check_mark: Learning AWS while Learning Terraform
@@ -56,6 +61,12 @@ This is the first start of Learning Terraform.
 The following tools were used in this project:
 
 - [Terraform](https://terraform.io)
+- [Terraform Doc's](https://developer.hashicorp.com/terraform/docs)
+- [Terraform tutorials](https://developer.hashicorp.com/terraform/tutorials) 
+- - [Terraform AWS](https://developer.hashicorp.com/terraform/tutorials/aws-get-started)
+- - [Terraform Docker](https://developer.hashicorp.com/terraform/tutorials/docker-get-started)
+- 
+
 
 ## :white_check_mark: Requirements ##
 
