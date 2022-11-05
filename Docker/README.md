@@ -45,14 +45,11 @@
 <br>
 
 ## :dart: About ##
-Create Terraform Infrastructure with Docker
+Create Terraform Infrastructure with a Docker NGINX container. 
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Provision and destroyed an NGINX webserver with Terraform.;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
-
+:heavy_check_mark: Provision and destroyed an NGINX webserver with Terraform.\
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
