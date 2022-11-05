@@ -1,33 +1,33 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Aws Terraform" />
+  <img src="./.github/app.gif" alt="Terraform" />
 
   &#xa0;
 
-  <!-- <a href="https://awsterraform1.netlify.app">Demo</a> -->
+  <!-- <a href="https://terraform.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Aws Terraform 1</h1>
+<h1 align="center">Terraform</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/jordanistan/aws-terraform-1?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/jordanistan/terraform-1?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/jordanistan/aws-terraform-1?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/jordanistan/terraform-1?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jordanistan/aws-terraform-1?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jordanistan/terraform-1?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/jordanistan/aws-terraform-1?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/jordanistan/terraform-1?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/jordanistan/aws-terraform-1?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/jordanistan/terraform-1?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/jordanistan/aws-terraform-1?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/jordanistan/terraform-1?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/jordanistan/aws-terraform-1?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/jordanistan/terraform-1?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-	🚧  Aws Terraform 1 🚀 Under construction...  🚧
+	🚧  Terraform 1 🚀 Under construction...  🚧
 </h4> 
 
 <hr> -->
@@ -67,10 +67,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/jordanistan/aws-terraform
+$ git clone https://github.com/jordanistan/terraform
 
 # Access
-$ cd aws-terraform
+$ cd terraform
 
 # Check to see if Terraform is installed.
 $ terraform -v
