@@ -111,3 +111,5 @@ Made with :heart: by <a href="https://github.com/jordanistan" target="_blank">jo
 &#xa0;
 
 <a href="#top">Back to top</a>
+
+# Learn to navigate the terminal as well as github along with aws and terraform
